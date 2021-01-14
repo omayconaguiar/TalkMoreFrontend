@@ -1,5 +1,9 @@
 # Front of Talk More Module
 Versão CLI: Vue CLI 3
+## Frontend Repository
+
+https://github.com/omayconaguiar/TalkMoreBackend
+
 ## Project setup
 ```
 yarn install
